@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 435975137914639872}
   - component: {fileID: 6328672481965754004}
   - component: {fileID: 1341669791076165652}
-  - component: {fileID: 5682563700051838394}
+  - component: {fileID: -8623117251614624032}
   m_Layer: 0
   m_Name: target
   m_TagString: Untagged
@@ -106,7 +106,7 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &5682563700051838394
+--- !u!114 &-8623117251614624032
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3440281762679979724}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3729deaaa4e36744383fd015be722d02, type: 3}
+  m_Script: {fileID: 11500000, guid: 4c14b20c8bfe638489a271cd430adaf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   gameController: {fileID: 0}
